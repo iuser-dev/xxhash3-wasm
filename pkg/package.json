@@ -1,0 +1,16 @@
+{
+  "name": "@iuser/xxhash3-wasm",
+  "version": "0.0.4",
+  "main": "_.js",
+  "license": "Apache-2.0",
+  "repository": "https://github.com/iuser-dev/xxhash3-wasm",
+  "author": "i@rmw.link",
+  "exports": {
+    ".": "./_.js",
+    "./*": "./*"
+  },
+  "files": [
+    "*.wasm",
+    "*.ts"
+  ]
+}
