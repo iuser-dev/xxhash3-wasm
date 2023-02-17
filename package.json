@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  "dependencies": { "coffee_plus": "^0.0.53" },
+  "devDependencies": {
+    "@u7/node-loader": "^0.0.47",
+    "@rmw/thisdir": "^0.0.2",
+    "coffeescript": "^2.7.0",
+    "source-map-support": "^0.5.21"
+  }
+}
